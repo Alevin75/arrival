@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "lastUpdated": "2025-01-03",
+  "qrCodeValidUntil": "2025-01-31",
+  "turnstileCode": "4741",
+  "turnstileCodeValidUntil": "2025-01-05",
+  "fullInstruction": "Последовательность заезда в Глэмпинг «Остров»... (вставьте сюда ваш полный текст инструкции)",
+  "qrCodeImageName": "qr-code.jpg"
+}
